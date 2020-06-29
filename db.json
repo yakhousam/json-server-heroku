@@ -1,0 +1,605 @@
+{
+  "empresas": [
+    {
+      "CODIGO": 3,
+      "NOME": "ESCRITORIO COMERCIAL",
+      "FANTASIA": "ESCRITORIO COMERCIAL",
+      "PAIS": "BR",
+      "UF": "SP",
+      "CNPJ": "23056985000178",
+      "TIPO_CONTRIBUINTE": "1",
+      "REGIME_TRIBUTARIO": "0",
+      "REGIME_TRIBUTARIO_ISSQN": "0",
+      "PIS_PERCENTUAL": null,
+      "COFINS_PERCENTUAL": null,
+      "ISS_PERCENTUAL": null,
+      "SEGMENTO": null,
+      "AREA_M2": null,
+      "MESES_MEDIA_QTD": null,
+      "CH_DIARIA": null,
+      "DIAS_TRABALHO_MES": null,
+      "JUROS_ATIVOS_MES_PERCENTUAL": null,
+      "PARTICIPACAO_MP_PERCENTUAL": null,
+      "MESES_ESTOQUE_QTD": null,
+      "PRAZO_CR_DIAS": null,
+      "PLANO_CONTA_RECEITAS": "3",
+      "PLANO_CONTA_DESPESAS": "4",
+      "TIPO_CONTRIBUINTE_DESCRICAO": null,
+      "REGIME_TRIBUTARIO_DESCRICAO": "CONSUMIDOR",
+      "REGIME_TRIBUTARIO_ISSQN_DESCRIC": "MICRO EMPRESA MUNICIPAL",
+      "SEGMENTO_DESCRICAO": null,
+      "PLANO_CONTAS_RECEITAS_DESCRICAO": "RECEITAS",
+      "PLANO_CONTAS_DESPESAS_DESCRICAO": "DESPESAS"
+    },
+    {
+      "CODIGO": 1,
+      "NOME": "BRSOFT TECNOLOGIA LTDA",
+      "FANTASIA": "BRSOFT (HOMOLOGAÇÃO)",
+      "PAIS": "BR",
+      "UF": "SP",
+      "CNPJ": "14200166000166",
+      "TIPO_CONTRIBUINTE": "1",
+      "REGIME_TRIBUTARIO": "1",
+      "REGIME_TRIBUTARIO_ISSQN": "0",
+      "PIS_PERCENTUAL": 1.65,
+      "COFINS_PERCENTUAL": 2,
+      "ISS_PERCENTUAL": 5,
+      "SEGMENTO": "1",
+      "AREA_M2": 320,
+      "MESES_MEDIA_QTD": 12,
+      "CH_DIARIA": 8,
+      "DIAS_TRABALHO_MES": 25,
+      "JUROS_ATIVOS_MES_PERCENTUAL": 1,
+      "PARTICIPACAO_MP_PERCENTUAL": 46,
+      "MESES_ESTOQUE_QTD": 8,
+      "PRAZO_CR_DIAS": 65,
+      "PLANO_CONTA_RECEITAS": "3",
+      "PLANO_CONTA_DESPESAS": "4",
+      "TIPO_CONTRIBUINTE_DESCRICAO": "CONTRIBUINTE ICMS",
+      "REGIME_TRIBUTARIO_DESCRICAO": "SIMPLES NACIONAL",
+      "REGIME_TRIBUTARIO_ISSQN_DESCRIC": "MICRO EMPRESA MUNICIPAL",
+      "SEGMENTO_DESCRICAO": "COSMETICA",
+      "PLANO_CONTAS_RECEITAS_DESCRICAO": "RECEITAS",
+      "PLANO_CONTAS_DESPESAS_DESCRICAO": "DESPESAS"
+    },
+    {
+      "CODIGO": 2,
+      "NOME": "CENTRO DE DISTRIBUIÇÃO",
+      "FANTASIA": "CD SCS",
+      "PAIS": "BR",
+      "UF": "SP",
+      "CNPJ": "08541408000182",
+      "TIPO_CONTRIBUINTE": "1",
+      "REGIME_TRIBUTARIO": "3",
+      "REGIME_TRIBUTARIO_ISSQN": "0",
+      "PIS_PERCENTUAL": null,
+      "COFINS_PERCENTUAL": null,
+      "ISS_PERCENTUAL": null,
+      "SEGMENTO": null,
+      "AREA_M2": null,
+      "MESES_MEDIA_QTD": null,
+      "CH_DIARIA": null,
+      "DIAS_TRABALHO_MES": null,
+      "JUROS_ATIVOS_MES_PERCENTUAL": null,
+      "PARTICIPACAO_MP_PERCENTUAL": null,
+      "MESES_ESTOQUE_QTD": null,
+      "PRAZO_CR_DIAS": null,
+      "PLANO_CONTA_RECEITAS": "3",
+      "PLANO_CONTA_DESPESAS": "4",
+      "TIPO_CONTRIBUINTE_DESCRICAO": null,
+      "REGIME_TRIBUTARIO_DESCRICAO": "NORMAL - RPA",
+      "REGIME_TRIBUTARIO_ISSQN_DESCRIC": "MICRO EMPRESA MUNICIPAL",
+      "SEGMENTO_DESCRICAO": null,
+      "PLANO_CONTAS_RECEITAS_DESCRICAO": "RECEITAS",
+      "PLANO_CONTAS_DESPESAS_DESCRICAO": "DESPESAS"
+    },
+    {
+      "CODIGO": 4,
+      "NOME": "BRSOFT USA",
+      "FANTASIA": "BRSOFT USA",
+      "PAIS": "BR",
+      "UF": "SP",
+      "CNPJ": null,
+      "TIPO_CONTRIBUINTE": "1",
+      "REGIME_TRIBUTARIO": "",
+      "REGIME_TRIBUTARIO_ISSQN": null,
+      "PIS_PERCENTUAL": null,
+      "COFINS_PERCENTUAL": null,
+      "ISS_PERCENTUAL": null,
+      "SEGMENTO": null,
+      "AREA_M2": null,
+      "MESES_MEDIA_QTD": null,
+      "CH_DIARIA": null,
+      "DIAS_TRABALHO_MES": null,
+      "JUROS_ATIVOS_MES_PERCENTUAL": null,
+      "PARTICIPACAO_MP_PERCENTUAL": null,
+      "MESES_ESTOQUE_QTD": null,
+      "PRAZO_CR_DIAS": null,
+      "PLANO_CONTA_RECEITAS": "3",
+      "PLANO_CONTA_DESPESAS": "4",
+      "TIPO_CONTRIBUINTE_DESCRICAO": null,
+      "REGIME_TRIBUTARIO_DESCRICAO": null,
+      "REGIME_TRIBUTARIO_ISSQN_DESCRIC": null,
+      "SEGMENTO_DESCRICAO": null,
+      "PLANO_CONTAS_RECEITAS_DESCRICAO": "RECEITAS",
+      "PLANO_CONTAS_DESPESAS_DESCRICAO": "DESPESAS"
+    },
+    {
+      "CODIGO": 5,
+      "NOME": "BRSOFT TECNOLOGIA LTDA - FILIAL 2",
+      "FANTASIA": "BRSOFT EUROPA",
+      "PAIS": "BR",
+      "UF": "SP",
+      "CNPJ": null,
+      "TIPO_CONTRIBUINTE": "1",
+      "REGIME_TRIBUTARIO": "",
+      "REGIME_TRIBUTARIO_ISSQN": null,
+      "PIS_PERCENTUAL": null,
+      "COFINS_PERCENTUAL": null,
+      "ISS_PERCENTUAL": null,
+      "SEGMENTO": null,
+      "AREA_M2": null,
+      "MESES_MEDIA_QTD": null,
+      "CH_DIARIA": null,
+      "DIAS_TRABALHO_MES": null,
+      "JUROS_ATIVOS_MES_PERCENTUAL": null,
+      "PARTICIPACAO_MP_PERCENTUAL": null,
+      "MESES_ESTOQUE_QTD": null,
+      "PRAZO_CR_DIAS": null,
+      "PLANO_CONTA_RECEITAS": "3",
+      "PLANO_CONTA_DESPESAS": "4",
+      "TIPO_CONTRIBUINTE_DESCRICAO": null,
+      "REGIME_TRIBUTARIO_DESCRICAO": null,
+      "REGIME_TRIBUTARIO_ISSQN_DESCRIC": null,
+      "SEGMENTO_DESCRICAO": null,
+      "PLANO_CONTAS_RECEITAS_DESCRICAO": "RECEITAS",
+      "PLANO_CONTAS_DESPESAS_DESCRICAO": "DESPESAS"
+    }
+  ],
+  "paises_lista": [
+    {
+      "CODIGO": "BR",
+      "DESCRICAO": "BRASIL",
+      "empresa": 1,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "BR",
+      "DESCRICAO": "BRASIL",
+      "empresa": 2,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "US",
+      "DESCRICAO": "ESTADOS UNIDOS",
+      "empresa": 3,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "FR",
+      "DESCRICAO": "FRANCE",
+      "empresa": 4,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "UK",
+      "DESCRICAO": "UNITED KINGDOM",
+      "empresa": 1,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "FR",
+      "DESCRICAO": "FRANCE",
+      "empresa": 5,
+      "pais": "BR"
+    }
+  ],
+  "ufs_lista": [
+    {
+      "CODIGO": "SP",
+      "DESCRICAO": "SAO PAULO",
+      "empresa": 3,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "RJ",
+      "DESCRICAO": "RIO DE JANEIRO",
+      "empresa": 1,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "PR",
+      "DESCRICAO": "PARANA",
+      "empresa": 3,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "ES",
+      "DESCRICAO": "ESPIRITO SANTO",
+      "empresa": 1,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "RN",
+      "DESCRICAO": "RIO GRANDE DO NORTE",
+      "empresa": 2,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "RS",
+      "DESCRICAO": "RIO GRANDE DO SUL",
+      "empresa": 4,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "SE",
+      "DESCRICAO": "SERGIPE",
+      "empresa": 5,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "BA",
+      "DESCRICAO": "BAHIA",
+      "empresa": 5,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "MG",
+      "DESCRICAO": "MINAS GERAIS",
+      "empresa": 5,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "SC",
+      "DESCRICAO": "SANTA CATARINA",
+      "empresa": 5,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "RR",
+      "DESCRICAO": "RORAIMA",
+      "empresa": 5,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "RO",
+      "DESCRICAO": "RONDONIA",
+      "empresa": 5,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "AC",
+      "DESCRICAO": "ACRE",
+      "empresa": 5,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "PI",
+      "DESCRICAO": "PIAUI",
+      "empresa": 5,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "MA",
+      "DESCRICAO": "MARANHAO",
+      "empresa": 5,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "MT",
+      "DESCRICAO": "MATO GROSSO",
+      "empresa": 5,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "MS",
+      "DESCRICAO": "MATO GROSSO DO SUL",
+      "empresa": 5,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "DF",
+      "DESCRICAO": "DISTRITO FEDERAL",
+      "empresa": 5,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "PA",
+      "DESCRICAO": "PARA",
+      "empresa": 5,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "GO",
+      "DESCRICAO": "GOIAS",
+      "empresa": 5,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "TO",
+      "DESCRICAO": "TOCANTINS",
+      "empresa": 5,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "PB",
+      "DESCRICAO": "PARAIBA",
+      "empresa": 5,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "AL",
+      "DESCRICAO": "ALAGOAS",
+      "empresa": 5,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "AP",
+      "DESCRICAO": "AMAPA",
+      "empresa": 5,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "AM",
+      "DESCRICAO": "AMAZONAS",
+      "empresa": 5,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "CE",
+      "DESCRICAO": "CEARA",
+      "empresa": 5,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "FN",
+      "DESCRICAO": "FERNANDO DE NORONHA",
+      "empresa": 5,
+      "pais": "BR"
+    },
+    {
+      "CODIGO": "PE",
+      "DESCRICAO": "PERNAMBUCO",
+      "empresa": 5,
+      "pais": "BR"
+    }
+  ],
+  "tipos_contribuintes_lista":[
+    {
+      "empresa": 5,
+      "pais": "BR",
+      "CODIGO": "1",
+      "DESCRICAO": "CONTRIBUINTE ICMS"
+    },
+    {
+      "empresa": 1,
+      "pais": "BR",
+      "CODIGO": "2",
+      "DESCRICAO": "CONTRIBUINTE ISENTO"
+    },
+    {
+      "empresa": 1,
+      "pais": "BR",
+      "CODIGO": "9",
+      "DESCRICAO": "NÃO CONTRIBUINTE"
+    },
+    {
+      "empresa": 1,
+      "pais": "UK",
+      "CODIGO": "3",
+      "DESCRICAO": "CONTRIBUINTE ICMS"
+    },
+    {
+      "empresa": 2,
+      "pais": "BR",
+      "CODIGO": "4",
+      "DESCRICAO": "CONTRIBUINTE ISENTO"
+    },
+    {
+      "empresa": 3,
+      "pais": "BR",
+      "CODIGO": "5",
+      "DESCRICAO": "NÃO CONTRIBUINTE"
+    },
+    {
+      "empresa": 4,
+      "pais": "BR",
+      "CODIGO": "5",
+      "DESCRICAO": "NÃO CONTRIBUINTE"
+    },
+    {
+      "empresa": 5,
+      "pais": "BR",
+      "CODIGO": "5",
+      "DESCRICAO": "NÃO CONTRIBUINTE"
+    }
+  ],
+  "regime_tributario_lista":[
+    {
+      "empresa": 1,
+      "pais": "BR",
+      "CODIGO": "1",
+      "DESCRICAO": "SIMPLES NACIONAL"
+    },
+    {
+      "empresa": 1,
+      "pais": "UK",
+      "CODIGO": "2",
+      "DESCRICAO": "SIMPLES NACIONAL 2"
+    },
+    {
+      "empresa": 2,
+      "pais": "BR",
+      "CODIGO": "3",
+      "DESCRICAO": "SIMPLES NACIONAL"
+    },
+    {
+      "empresa": 3,
+      "pais": "BR",
+      "CODIGO": "4",
+      "DESCRICAO": "SIMPLES NACIONAL"
+    },
+    {
+      "empresa": 4,
+      "pais": "BR",
+      "CODIGO": "5",
+      "DESCRICAO": "SIMPLES NACIONAL"
+    },
+    {
+      "empresa": 5,
+      "pais": "BR",
+      "CODIGO": "5",
+      "DESCRICAO": "SIMPLES NACIONAL"
+    }
+  ],
+  "regime_tributario_iss_lista": [
+    {
+      "empresa": 1,
+      "pais": "BR",
+      "CODIGO": "0",
+      "DESCRICAO": "MICRO EMPRESA MUNICIPAL"
+    },
+    {
+      "empresa": 1,
+      "pais": "UK",
+      "CODIGO": "1",
+      "DESCRICAO": "ESTIMATIVA"
+    },
+    {
+      "empresa": 2,
+      "pais": "BR",
+      "CODIGO": "2",
+      "DESCRICAO": "SOCIEDADE"
+    },
+    {
+      "empresa": 3,
+      "pais": "BR",
+      "CODIGO": "3",
+      "DESCRICAO": "COOPERATIVA"
+    },
+    {
+      "empresa": 4,
+      "pais": "BR",
+      "CODIGO": "4",
+      "DESCRICAO": "MEI"
+    },
+    {
+      "empresa": 5,
+      "pais": "BR",
+      "CODIGO": "5",
+      "DESCRICAO": "EPP"
+    },
+    {
+      "empresa": 2,
+      "pais": "BR",
+      "CODIGO": "6",
+      "DESCRICAO": "NENHUM"
+    }
+  ],
+  "segmentos_lista":[
+    {
+      "empresa": 1,
+      "pais": "BR",
+      "CODIGO": "1",
+      "DESCRICAO": "COSMETICA"
+    },
+    {
+      "empresa": 1,
+      "pais": "UK",
+      "CODIGO": "2",
+      "DESCRICAO": "METALURGICA"
+    },
+    {
+      "empresa": 2,
+      "pais": "BR",
+      "CODIGO": "3",
+      "DESCRICAO": "COSMETICA"
+    },
+    {
+      "empresa": 3,
+      "pais": "UK",
+      "CODIGO": "4",
+      "DESCRICAO": "METALURGICA"
+    },
+    {
+      "empresa": 4,
+      "pais": "BR",
+      "CODIGO": "5",
+      "DESCRICAO": "COSMETICA"
+    },
+    {
+      "empresa": 5,
+      "pais": "UK",
+      "CODIGO": "6",
+      "DESCRICAO": "METALURGICA"
+    }
+  ],
+  "plano_contas_lista":[
+    {
+      "empresa": 1,
+      "pais": "BR",
+      "CODIGO": "1",
+      "DESCRICAO": "ATIVO"
+    },
+    {
+      "empresa": 1,
+      "pais": "BR",
+      "CODIGO": "2",
+      "DESCRICAO": "PASSIVO"
+    },
+    {
+      "empresa": 2,
+      "pais": "BR",
+      "CODIGO": "3",
+      "DESCRICAO": "RECEITAS"
+    },
+    {
+      "empresa": 3,
+      "pais": "BR",
+      "CODIGO": "4",
+      "DESCRICAO": "DESPESAS"
+    },
+    {
+      "empresa": 1,
+      "pais": "BR",
+      "CODIGO": "1.1",
+      "DESCRICAO": "ATIVO - CIRCULANTE"
+    },
+    {
+      "empresa": 4,
+      "pais": "BR",
+      "CODIGO": "1.3",
+      "DESCRICAO": "ATIVO - PERMANENTE"
+    },
+    {
+      "empresa": 5,
+      "pais": "BR",
+      "CODIGO": "2.1",
+      "DESCRICAO": "PASSIVO - CIRCULANTE"
+    },
+    {
+      "empresa": 1,
+      "pais": "UK",
+      "CODIGO": "1.1.4",
+      "DESCRICAO": "ATIVO - CIRCULANTE - OUTROS CREDITOS"
+    },
+    {
+      "empresa": 1,
+      "pais": "UK",
+      "CODIGO": "1.1.5",
+      "DESCRICAO": "ATIVO - CIRCULANTE - DESPESAS DIFERIDAS"
+    },
+    {
+      "empresa": 2,
+      "pais": "BR",
+      "CODIGO": "1.1.6",
+      "DESCRICAO": "ATIVO - CIRCULANTE - CONTAS COMPENSACOES"
+    },
+    {
+      "empresa": 1,
+      "pais": "BR",
+      "CODIGO": "1.1.1.01",
+      "DESCRICAO": "ATIVO - CIRCULANTE - DISPONIBILIDADES - CAIXA GERAL"
+    }
+  ]
+}
