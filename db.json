@@ -160,444 +160,444 @@
     {
       "CODIGO": "BR",
       "DESCRICAO": "BRASIL",
-      "empresa": 1,
-      "pais": "BR"
+      "EMPRESA": 1,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "BR",
       "DESCRICAO": "BRASIL",
-      "empresa": 2,
-      "pais": "BR"
+      "EMPRESA": 2,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "US",
       "DESCRICAO": "ESTADOS UNIDOS",
-      "empresa": 3,
-      "pais": "BR"
+      "EMPRESA": 3,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "FR",
       "DESCRICAO": "FRANCE",
-      "empresa": 4,
-      "pais": "BR"
+      "EMPRESA": 4,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "UK",
       "DESCRICAO": "UNITED KINGDOM",
-      "empresa": 1,
-      "pais": "BR"
+      "EMPRESA": 1,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "FR",
       "DESCRICAO": "FRANCE",
-      "empresa": 5,
-      "pais": "BR"
+      "EMPRESA": 5,
+      "PAIS": "BR"
     }
   ],
   "ufs_lista": [
     {
       "CODIGO": "SP",
       "DESCRICAO": "SAO PAULO",
-      "empresa": 3,
-      "pais": "BR"
+      "EMPRESA": 3,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "RJ",
       "DESCRICAO": "RIO DE JANEIRO",
-      "empresa": 1,
-      "pais": "BR"
+      "EMPRESA": 1,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "PR",
       "DESCRICAO": "PARANA",
-      "empresa": 3,
-      "pais": "BR"
+      "EMPRESA": 3,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "ES",
       "DESCRICAO": "ESPIRITO SANTO",
-      "empresa": 1,
-      "pais": "BR"
+      "EMPRESA": 1,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "RN",
       "DESCRICAO": "RIO GRANDE DO NORTE",
-      "empresa": 2,
-      "pais": "BR"
+      "EMPRESA": 2,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "RS",
       "DESCRICAO": "RIO GRANDE DO SUL",
-      "empresa": 4,
-      "pais": "BR"
+      "EMPRESA": 4,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "SE",
       "DESCRICAO": "SERGIPE",
-      "empresa": 5,
-      "pais": "BR"
+      "EMPRESA": 5,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "BA",
       "DESCRICAO": "BAHIA",
-      "empresa": 5,
-      "pais": "BR"
+      "EMPRESA": 5,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "MG",
       "DESCRICAO": "MINAS GERAIS",
-      "empresa": 5,
-      "pais": "BR"
+      "EMPRESA": 5,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "SC",
       "DESCRICAO": "SANTA CATARINA",
-      "empresa": 5,
-      "pais": "BR"
+      "EMPRESA": 5,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "RR",
       "DESCRICAO": "RORAIMA",
-      "empresa": 5,
-      "pais": "BR"
+      "EMPRESA": 5,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "RO",
       "DESCRICAO": "RONDONIA",
-      "empresa": 5,
-      "pais": "BR"
+      "EMPRESA": 5,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "AC",
       "DESCRICAO": "ACRE",
-      "empresa": 5,
-      "pais": "BR"
+      "EMPRESA": 5,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "PI",
       "DESCRICAO": "PIAUI",
-      "empresa": 5,
-      "pais": "BR"
+      "EMPRESA": 5,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "MA",
       "DESCRICAO": "MARANHAO",
-      "empresa": 5,
-      "pais": "BR"
+      "EMPRESA": 5,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "MT",
       "DESCRICAO": "MATO GROSSO",
-      "empresa": 5,
-      "pais": "BR"
+      "EMPRESA": 5,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "MS",
       "DESCRICAO": "MATO GROSSO DO SUL",
-      "empresa": 5,
-      "pais": "BR"
+      "EMPRESA": 5,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "DF",
       "DESCRICAO": "DISTRITO FEDERAL",
-      "empresa": 5,
-      "pais": "BR"
+      "EMPRESA": 5,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "PA",
       "DESCRICAO": "PARA",
-      "empresa": 5,
-      "pais": "BR"
+      "EMPRESA": 5,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "GO",
       "DESCRICAO": "GOIAS",
-      "empresa": 5,
-      "pais": "BR"
+      "EMPRESA": 5,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "TO",
       "DESCRICAO": "TOCANTINS",
-      "empresa": 5,
-      "pais": "BR"
+      "EMPRESA": 5,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "PB",
       "DESCRICAO": "PARAIBA",
-      "empresa": 5,
-      "pais": "BR"
+      "EMPRESA": 5,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "AL",
       "DESCRICAO": "ALAGOAS",
-      "empresa": 5,
-      "pais": "BR"
+      "EMPRESA": 5,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "AP",
       "DESCRICAO": "AMAPA",
-      "empresa": 5,
-      "pais": "BR"
+      "EMPRESA": 5,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "AM",
       "DESCRICAO": "AMAZONAS",
-      "empresa": 5,
-      "pais": "BR"
+      "EMPRESA": 5,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "CE",
       "DESCRICAO": "CEARA",
-      "empresa": 5,
-      "pais": "BR"
+      "EMPRESA": 5,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "FN",
       "DESCRICAO": "FERNANDO DE NORONHA",
-      "empresa": 5,
-      "pais": "BR"
+      "EMPRESA": 5,
+      "PAIS": "BR"
     },
     {
       "CODIGO": "PE",
       "DESCRICAO": "PERNAMBUCO",
-      "empresa": 5,
-      "pais": "BR"
+      "EMPRESA": 5,
+      "PAIS": "BR"
     }
   ],
   "tipos_contribuintes_lista":[
     {
-      "empresa": 5,
-      "pais": "BR",
+      "EMPRESA": 5,
+      "PAIS": "BR",
       "CODIGO": "1",
       "DESCRICAO": "CONTRIBUINTE ICMS"
     },
     {
-      "empresa": 1,
-      "pais": "BR",
+      "EMPRESA": 1,
+      "PAIS": "BR",
       "CODIGO": "2",
       "DESCRICAO": "CONTRIBUINTE ISENTO"
     },
     {
-      "empresa": 1,
-      "pais": "BR",
+      "EMPRESA": 1,
+      "PAIS": "BR",
       "CODIGO": "9",
       "DESCRICAO": "NÃO CONTRIBUINTE"
     },
     {
-      "empresa": 1,
-      "pais": "UK",
+      "EMPRESA": 1,
+      "PAIS": "UK",
       "CODIGO": "3",
       "DESCRICAO": "CONTRIBUINTE ICMS"
     },
     {
-      "empresa": 2,
-      "pais": "BR",
+      "EMPRESA": 2,
+      "PAIS": "BR",
       "CODIGO": "4",
       "DESCRICAO": "CONTRIBUINTE ISENTO"
     },
     {
-      "empresa": 3,
-      "pais": "BR",
+      "EMPRESA": 3,
+      "PAIS": "BR",
       "CODIGO": "5",
       "DESCRICAO": "NÃO CONTRIBUINTE"
     },
     {
-      "empresa": 4,
-      "pais": "BR",
+      "EMPRESA": 4,
+      "PAIS": "BR",
       "CODIGO": "5",
       "DESCRICAO": "NÃO CONTRIBUINTE"
     },
     {
-      "empresa": 5,
-      "pais": "BR",
+      "EMPRESA": 5,
+      "PAIS": "BR",
       "CODIGO": "5",
       "DESCRICAO": "NÃO CONTRIBUINTE"
     }
   ],
   "regime_tributario_lista":[
     {
-      "empresa": 1,
-      "pais": "BR",
+      "EMPRESA": 1,
+      "PAIS": "BR",
       "CODIGO": "1",
       "DESCRICAO": "SIMPLES NACIONAL"
     },
     {
-      "empresa": 1,
-      "pais": "UK",
+      "EMPRESA": 1,
+      "PAIS": "UK",
       "CODIGO": "2",
       "DESCRICAO": "SIMPLES NACIONAL 2"
     },
     {
-      "empresa": 2,
-      "pais": "BR",
+      "EMPRESA": 2,
+      "PAIS": "BR",
       "CODIGO": "3",
       "DESCRICAO": "SIMPLES NACIONAL"
     },
     {
-      "empresa": 3,
-      "pais": "BR",
+      "EMPRESA": 3,
+      "PAIS": "BR",
       "CODIGO": "4",
       "DESCRICAO": "SIMPLES NACIONAL"
     },
     {
-      "empresa": 4,
-      "pais": "BR",
+      "EMPRESA": 4,
+      "PAIS": "BR",
       "CODIGO": "5",
       "DESCRICAO": "SIMPLES NACIONAL"
     },
     {
-      "empresa": 5,
-      "pais": "BR",
+      "EMPRESA": 5,
+      "PAIS": "BR",
       "CODIGO": "5",
       "DESCRICAO": "SIMPLES NACIONAL"
     }
   ],
   "regime_tributario_iss_lista": [
     {
-      "empresa": 1,
-      "pais": "BR",
+      "EMPRESA": 1,
+      "PAIS": "BR",
       "CODIGO": "0",
       "DESCRICAO": "MICRO EMPRESA MUNICIPAL"
     },
     {
-      "empresa": 1,
-      "pais": "UK",
+      "EMPRESA": 1,
+      "PAIS": "UK",
       "CODIGO": "1",
       "DESCRICAO": "ESTIMATIVA"
     },
     {
-      "empresa": 2,
-      "pais": "BR",
+      "EMPRESA": 2,
+      "PAIS": "BR",
       "CODIGO": "2",
       "DESCRICAO": "SOCIEDADE"
     },
     {
-      "empresa": 3,
-      "pais": "BR",
+      "EMPRESA": 3,
+      "PAIS": "BR",
       "CODIGO": "3",
       "DESCRICAO": "COOPERATIVA"
     },
     {
-      "empresa": 4,
-      "pais": "BR",
+      "EMPRESA": 4,
+      "PAIS": "BR",
       "CODIGO": "4",
       "DESCRICAO": "MEI"
     },
     {
-      "empresa": 5,
-      "pais": "BR",
+      "EMPRESA": 5,
+      "PAIS": "BR",
       "CODIGO": "5",
       "DESCRICAO": "EPP"
     },
     {
-      "empresa": 2,
-      "pais": "BR",
+      "EMPRESA": 2,
+      "PAIS": "BR",
       "CODIGO": "6",
       "DESCRICAO": "NENHUM"
     }
   ],
   "segmentos_lista":[
     {
-      "empresa": 1,
-      "pais": "BR",
+      "EMPRESA": 1,
+      "PAIS": "BR",
       "CODIGO": "1",
       "DESCRICAO": "COSMETICA"
     },
     {
-      "empresa": 1,
-      "pais": "UK",
+      "EMPRESA": 1,
+      "PAIS": "UK",
       "CODIGO": "2",
       "DESCRICAO": "METALURGICA"
     },
     {
-      "empresa": 2,
-      "pais": "BR",
+      "EMPRESA": 2,
+      "PAIS": "BR",
       "CODIGO": "3",
       "DESCRICAO": "COSMETICA"
     },
     {
-      "empresa": 3,
-      "pais": "UK",
+      "EMPRESA": 3,
+      "PAIS": "UK",
       "CODIGO": "4",
       "DESCRICAO": "METALURGICA"
     },
     {
-      "empresa": 4,
-      "pais": "BR",
+      "EMPRESA": 4,
+      "PAIS": "BR",
       "CODIGO": "5",
       "DESCRICAO": "COSMETICA"
     },
     {
-      "empresa": 5,
-      "pais": "UK",
+      "EMPRESA": 5,
+      "PAIS": "UK",
       "CODIGO": "6",
       "DESCRICAO": "METALURGICA"
     }
   ],
   "plano_contas_lista":[
     {
-      "empresa": 1,
-      "pais": "BR",
+      "EMPRESA": 1,
+      "PAIS": "BR",
       "CODIGO": "1",
       "DESCRICAO": "ATIVO"
     },
     {
-      "empresa": 1,
-      "pais": "BR",
+      "EMPRESA": 1,
+      "PAIS": "BR",
       "CODIGO": "2",
       "DESCRICAO": "PASSIVO"
     },
     {
-      "empresa": 2,
-      "pais": "BR",
+      "EMPRESA": 2,
+      "PAIS": "BR",
       "CODIGO": "3",
       "DESCRICAO": "RECEITAS"
     },
     {
-      "empresa": 3,
-      "pais": "BR",
+      "EMPRESA": 3,
+      "PAIS": "BR",
       "CODIGO": "4",
       "DESCRICAO": "DESPESAS"
     },
     {
-      "empresa": 1,
-      "pais": "BR",
+      "EMPRESA": 1,
+      "PAIS": "BR",
       "CODIGO": "1.1",
       "DESCRICAO": "ATIVO - CIRCULANTE"
     },
     {
-      "empresa": 4,
-      "pais": "BR",
+      "EMPRESA": 4,
+      "PAIS": "BR",
       "CODIGO": "1.3",
       "DESCRICAO": "ATIVO - PERMANENTE"
     },
     {
-      "empresa": 5,
-      "pais": "BR",
+      "EMPRESA": 5,
+      "PAIS": "BR",
       "CODIGO": "2.1",
       "DESCRICAO": "PASSIVO - CIRCULANTE"
     },
     {
-      "empresa": 1,
-      "pais": "UK",
+      "EMPRESA": 1,
+      "PAIS": "UK",
       "CODIGO": "1.1.4",
       "DESCRICAO": "ATIVO - CIRCULANTE - OUTROS CREDITOS"
     },
     {
-      "empresa": 1,
-      "pais": "UK",
+      "EMPRESA": 1,
+      "PAIS": "UK",
       "CODIGO": "1.1.5",
       "DESCRICAO": "ATIVO - CIRCULANTE - DESPESAS DIFERIDAS"
     },
     {
-      "empresa": 2,
-      "pais": "BR",
+      "EMPRESA": 2,
+      "PAIS": "BR",
       "CODIGO": "1.1.6",
       "DESCRICAO": "ATIVO - CIRCULANTE - CONTAS COMPENSACOES"
     },
     {
-      "empresa": 1,
-      "pais": "BR",
+      "EMPRESA": 1,
+      "PAIS": "BR",
       "CODIGO": "1.1.1.01",
       "DESCRICAO": "ATIVO - CIRCULANTE - DISPONIBILIDADES - CAIXA GERAL"
     }
