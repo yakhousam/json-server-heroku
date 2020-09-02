@@ -1,10 +1,10 @@
 {
-  "/empresas/:empresa/:pais": "/empresas?CODIGO=:empresa&&PAIS=:pais",
-  "/paises_lista/:empresa/:pais": "/paises_lista?EMPRESA=:empresa&&PAIS=:pais",
-  "/ufs_lista/:empresa/:pais": "/ufs_lista?EMPRESA=:empresa&&PAIS=:pais",
-  "/tipos_contribuintes_lista/:empresa/:pais": "/tipos_contribuintes_lista?EMPRESA=:empresa&&PAIS=:pais",
-  "/regime_tributario_lista/:empresa/:pais": "/regime_tributario_lista?EMPRESA=:empresa&&PAIS=:pais",
-  "/regime_tributario_iss_lista/:empresa/:pais": "/regime_tributario_iss_lista?EMPRESA=:empresa&&PAIS=:pais",
-  "/segmentos_lista/:empresa/:pais": "/segmentos_lista?EMPRESA=:empresa&&PAIS=:pais",
-  "/plano_contas_lista/:empresa/:pais": "/plano_contas_lista?EMPRESA=:empresa&&PAIS=:pais"
+  "/empresas/:empresa/:pais": "/empresas?CODIGO=:empresa&PAIS=:pais",
+  "/paises_lista/:empresa/:pais": "/paises_lista?EMPRESA=:empresa&PAIS=:pais",
+  "/ufs_lista/:empresa/:pais": "/ufs_lista?EMPRESA=:empresa&PAIS=:pais",
+  "/tipos_contribuintes_lista/:empresa/:pais": "/tipos_contribuintes_lista?EMPRESA=:empresa&PAIS=:pais",
+  "/regime_tributario_lista/:empresa/:pais": "/regime_tributario_lista?EMPRESA=:empresa&PAIS=:pais",
+  "/regime_tributario_iss_lista/:empresa/:pais": "/regime_tributario_iss_lista?EMPRESA=:empresa&PAIS=:pais",
+  "/segmentos_lista/:empresa/:pais": "/segmentos_lista?EMPRESA=:empresa&PAIS=:pais",
+  "/plano_contas_lista/:empresa/:pais": "/plano_contas_lista?EMPRESA=:empresa&PAIS=:pais"
 }
