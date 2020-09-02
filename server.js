@@ -4,7 +4,9 @@ const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 3001;
 const rewriteRoutes = require("./routes.json")
+const bodyParser = require("body-parser")
 
+server.use(bodyParser.json())
 server.use(jsonServer.rewriter(rewriteRoutes))
 server.use(middlewares);
 server.use(router);
